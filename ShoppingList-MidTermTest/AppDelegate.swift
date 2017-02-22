@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ShoppingList-MidTermTest
 //
-//  Created by Tayzin Mawani on 2017-02-21.
-//  Copyright © 2017 Tayzin Mawani. All rights reserved.
+//  Created by Sushrut Shastri on 2017-02-21.
+//  Copyright © 2017 Sushrut Shastri. All rights reserved.
 //
 
 import UIKit

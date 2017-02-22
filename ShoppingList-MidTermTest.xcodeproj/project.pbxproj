@@ -15,6 +15,7 @@
 		7F20B7FE1E5D080F00BA37E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F20B7FC1E5D080F00BA37E5 /* LaunchScreen.storyboard */; };
 		7F20B8091E5D081000BA37E5 /* ShoppingList_MidTermTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F20B8081E5D081000BA37E5 /* ShoppingList_MidTermTestTests.swift */; };
 		7F20B8141E5D081000BA37E5 /* ShoppingList_MidTermTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F20B8131E5D081000BA37E5 /* ShoppingList_MidTermTestUITests.swift */; };
+		7F20B8221E5D17E300BA37E5 /* TextInputTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F20B8211E5D17E300BA37E5 /* TextInputTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7F20B80F1E5D081000BA37E5 /* ShoppingList-MidTermTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ShoppingList-MidTermTestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F20B8131E5D081000BA37E5 /* ShoppingList_MidTermTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingList_MidTermTestUITests.swift; sourceTree = "<group>"; };
 		7F20B8151E5D081000BA37E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F20B8211E5D17E300BA37E5 /* TextInputTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextInputTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				7F20B7FC1E5D080F00BA37E5 /* LaunchScreen.storyboard */,
 				7F20B7FF1E5D080F00BA37E5 /* Info.plist */,
 				7F20B7F71E5D080F00BA37E5 /* ShoppingList_MidTermTest.xcdatamodeld */,
+				7F20B8211E5D17E300BA37E5 /* TextInputTableViewCell.swift */,
 			);
 			path = "ShoppingList-MidTermTest";
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				7F20B7F31E5D080F00BA37E5 /* ViewController.swift in Sources */,
 				7F20B7F11E5D080F00BA37E5 /* AppDelegate.swift in Sources */,
 				7F20B7F91E5D080F00BA37E5 /* ShoppingList_MidTermTest.xcdatamodeld in Sources */,
+				7F20B8221E5D17E300BA37E5 /* TextInputTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
