@@ -71,6 +71,7 @@
                                                 </textField>
                                                 <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="lbr-vm-zvV">
                                                     <rect key="frame" x="191" y="22" width="94" height="29"/>
+                                                    <color key="tintColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <connections>
                                                         <action selector="quantityChange:" destination="adJ-fO-aMd" eventType="valueChanged" id="rz3-bx-IZe"/>
                                                     </connections>
